@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Mar 16 16:18:52 2024
+# Process ID: 17612
+# Current directory: D:/Gabriel/Documents/Universite/S4/APP1/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12056 D:\Gabriel\Documents\Universite\S4\APP1\Vivado\pb_APP_log_comb.xpr
+# Log file: D:/Gabriel/Documents/Universite/S4/APP1/Vivado/vivado.log
+# Journal file: D:/Gabriel/Documents/Universite/S4/APP1/Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Gabriel/Documents/Universite/S4/APP1/Vivado/pb_APP_log_comb.xpr

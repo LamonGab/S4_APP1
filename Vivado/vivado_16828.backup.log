@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Jan 14 15:02:07 2024
+# Process ID: 16828
+# Current directory: D:/Gabriel/Documents/Universite/S4/APP1/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15404 D:\Gabriel\Documents\Universite\S4\APP1\Vivado\pb_APP_log_comb.xpr
+# Log file: D:/Gabriel/Documents/Universite/S4/APP1/Vivado/vivado.log
+# Journal file: D:/Gabriel/Documents/Universite/S4/APP1/Vivado\vivado.jou
+#-----------------------------------------------------------sstart_guiopen_project D:/Gabriel/Documents/Universite/S4/APP1/Vivado/pb_APP_log_comb.xpr
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'D:/Gabriel/Documents/Universite/S4/APP1/Vivado/pb_APP_log_comb.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+IINFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specifiedINFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:57 ; elapsed = 00:00:26 . Memory (MB): peak = 1091.207 ; gain = 0.000
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Jan 14 16:08:00 2024...

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Jan 15 15:19:25 2024
+# Process ID: 18288
+# Current directory: D:/Gabriel/Documents/Universite/S4/APP1/Vivado/pb_APP_log_comb.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Gabriel/Documents/Universite/S4/APP1/Vivado/pb_APP_log_comb.sim/sim_1/behav/xsim/xsim.dir/AppCombi2_top_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Gabriel/Documents/Universite/S4/APP1/Vivado/pb_APP_log_comb.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Gabriel/Documents/Universite/S4/APP1/Vivado/pb_APP_log_comb.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Gabriel/Documents/Universite/S4/APP1/Vivado/pb_APP_log_comb.sim/sim_1/behav/xsim/xsim.dir/AppCombi2_top_behav/webtalk/xsim_webtalk.tcl -notrace
